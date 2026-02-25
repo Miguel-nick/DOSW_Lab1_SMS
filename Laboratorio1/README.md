@@ -106,11 +106,14 @@ Se trabajo de manera ordenada para cada uno de los demas retos, algunos pedian v
 
 ---
 
+# OBSERVACIONES - GENERALES
 
+<img width="769" height="348" alt="image" src="https://github.com/user-attachments/assets/5127818c-95ae-47f9-abca-26b5d560bb97" />
+<img width="768" height="538" alt="image" src="https://github.com/user-attachments/assets/0e8e9edc-5c84-42f4-b5f4-2e1da71d4f52" />
+<img width="768" height="533" alt="image" src="https://github.com/user-attachments/assets/452d8aab-a505-4934-bd7b-868bdb2c2e4e" />
 
+## OBSERVACIONES - ONBOARDING (INDIVIDUAL)
+<img width="472" height="148" alt="image" src="https://github.com/user-attachments/assets/b727fe83-8284-46f8-a6d8-2a9f1273c987" />
 
-
-
-
-
- 
+## NOTA
+<img width="351" height="151" alt="image" src="https://github.com/user-attachments/assets/311d1e7d-161a-451c-b7a3-e319b15408f5" />
